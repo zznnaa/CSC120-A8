@@ -1,1 +1,3 @@
-# CSC120-A8
+# CSC120-A8: Promises, Promises...
+
+The task for this assignment is simple: create a class that `implement`s the `interface` contained in `Contract.java`... and does something interesting! The rest is up to you. Have fun! :-)
